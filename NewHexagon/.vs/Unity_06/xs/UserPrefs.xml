@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F3B8E570-EFCE-7D2F-7DB9-9E93DA6D93EE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveHex.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="4" Column="35" />
+      <File FileName="Assets/Scripts/Hexagon.cs" Line="31" Column="10" />
+      <File FileName="Assets/Scripts/HexGenerator.cs" Line="25" Column="84" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="17" Column="9" />
+      <File FileName="Assets/Scripts/Score.cs" Line="9" Column="27" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="9" Column="36" />
+      <File FileName="Assets/Scripts/ScaleCentreScore.cs" Line="37" Column="42" />
+      <File FileName="Assets/Scripts/NeedScore.cs" Line="26" Column="59" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/PlayerTwo.cs" Line="35" Column="33" />
+      <File FileName="Assets/Scripts/MoveHex.cs" Line="13" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
